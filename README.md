@@ -49,7 +49,7 @@ graph TD
     D[Tugas LED Hijau] -->|Akses Resource| B
     B -->|Kontensi? Tidak| E[Proses Lanjut]
 ```
-##Dokumentasi
+## Dokumentasi
 ![WhatsApp Video 2024-12-04 at 08 43 01_49f4f3c7](https://github.com/user-attachments/assets/0b4290bf-2647-4298-91fd-e258cf2fc87c)
 
 ## Hasil Perilaku LED
